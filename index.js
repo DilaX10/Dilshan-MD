@@ -89,7 +89,7 @@ async function connectToWA() {
 
       const up = `DILSHAN-MD connected ✅\n\nPREFIX: ${prefix}`;
       await dilshan.sendMessage(ownerNumber[0] + "@s.whatsapp.net", {
-        image: { url: `https://github.com/dilshan-MD/dilshan-MD/blob/main/images/dilshan-MD.png?raw=true` },
+        image: { url: `https://github.com/DilaX10/Dilshan-MD/blob/main/images/20250719_115945.jpg?raw=true` },
         caption: up
       });
 
